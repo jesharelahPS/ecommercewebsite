@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List - LUGI VUITTON</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="icon" href="icons/louis-vuitton.svg">
+    <script src="../js/product-list.js" defer></script>
+</head>
+<body class="product-card-list">
+    <header>
+        <nav>
+            <ul class="nav-bar" type="none">
+                <li class="left-navbar">
+                    <div class="burger-btn" onclick="toggleMenu()">
+                        <div class="menu-btn"></div>
+                        <div class="menu-btn"></div>
+                        <div class="menu-btn"></div>
+                    </div>
+                </li>
+                <li class="left-navbar search-bar">
+                    <input type="text" id="searchInput" placeholder="Search...">
+                    <button onclick="searchProducts()"><img src="icons/noun-search-7358741.png" alt="Search"></button>
+                </li>
+                <li class="product-title" onclick="location.href='../index.html'">LUGI VUITTON</li>
+                <li class="right-navbar dropdown">
+                    <a href="javascript:void(0)" class="login">
+                        <img src="icons/noun-profile-6772558.png" alt="Login">
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="login.html">Login/Register</a></li>
+                        <li><a href="account.html">Account</a></li>
+                    </ul>
+                </li>
+                <li class="right-navbar"><a href="favorites.html"><img src="icons/noun-favorite-7358738.png" class="favorites" alt="Favorites"></a></li>
+                <li class="right-navbar"><a href="notifications.html"><img src="icons/noun-notification-7375693.png" class="notification" alt="Notifications"></a></li>
+                <li class="right-navbar"><a href="cart.html"><img src="icons/noun-shopping-bag-7366667.png" class="cart" alt="Cart"></a><span id="cart-count">0</span></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <h2 class="page-title">Shop now!</h2>
+    <div class="product-list-container">
+        <aside class="sidebar">
+            <h2>Filters</h2>
+            <div>
+                <h3>Price Range</h3>
+                <input type="range" id="priceRange" min="0" max="1000" step="10">
+                <p id="priceDisplay">Max Price: $1000</p><br>
+            </div>
+            <div>
+                <h3>Categories</h3>
+                <label><input type="radio" name="category" value="all"> All</label><br>
+                <label><input type="radio" name="category" value="women"> Women</label><br>
+                <label><input type="radio" name="category" value="men"> Men</label><br>
+                <label><input type="radio" name="category" value="kids-all"> Kids</label><br>
+
+                <h3>Types</h3>
+                <label><input type="checkbox" value="dresses" onchange="applyFilters()"> Dresses</label><br>
+                <label><input type="checkbox" value="tops" onchange="applyFilters()"> Tops</label><br>
+                <label><input type="checkbox" value="bottoms" onchange="applyFilters()"> Bottoms</label><br>
+                <label><input type="checkbox" value="jackets" onchange="applyFilters()"> Jackets</label><br>
+                <label><input type="checkbox" value="underwear" onchange="applyFilters()"> Underwear</label><br>
+                <label><input type="checkbox" value="kids" onchange="applyFilters()"> Kids</label><br>
+            </div>
+            <button onclick="applyFilters()" class="apply-filters-button">Apply Filters</button>
+        </aside>
+        <main id="product-list" class="product-list">
+            <!-- Product cards will be dynamically generated here -->
+            <div id="popup" style="display: none;">
+                <div id="popup-content">
+                    <img id="popup-image" src="" alt="Product Image">
+                    <button id="close-popup">Close</button>
+                </div>
+            </div>
+            
+        </main>
+    </div>
+
+    <footer  class="footer">
+        <div class="footer-links">
+            <p class="help-links">Help
+                <a href="#">Call or Email Us</a>
+                <a href="#">FAQ's</a>
+                <a href="#">Product Care</a>
+                <a href="#">Stores</a>
+            </p>
+            <p class="services-links">Services
+                <a href="#">Repairs</a>
+                <a href="#">Personalization</a>
+                <a href="#">Gifts</a>
+                <a href="#">Download App</a>
+            </p>
+            <p class="more-links">More
+                <a href="#">Sustainability</a>
+                <a href="#">Latest News</a>
+                <a href="#">Careers</a>
+                <a href="#">Foundations</a>
+            </p>
+        </div>
+        <div class="bottom">
+            <a href="#">Sitemap</a>
+            <a href="#">Legal & Privacy</a>
+            <a href="#">Cookies</a>
+        </div>
+    </footer>
+</body>
+</html>
