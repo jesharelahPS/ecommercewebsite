@@ -1,0 +1,1013 @@
+[
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 1,
+    "name": "Jump Skirt",
+    "photos": {
+      "front": "../products/Jump Skirt.png",
+      "back": "../products/Jump Skirt(back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 150.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 2,
+    "name": "Belted Coat",
+    "photos": {
+      "front": "../products/Belted Coat (Front).png",
+      "back": "../products/Belted Coat (Back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 299.0
+  },
+  {
+   "category": "women",
+    "id": 3,
+    "name": "Belted Jacket with Removable Scarf",
+    "photos": {
+      "front": "../products/Belted Jacket with Removable Scarf Front.png",
+      "back": "../products/Belted Jacket with Removable Scarf Front.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 260.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 4,
+    "name": "Batavia wool dress",
+    "photos": {
+      "front": "../products/Batavia wool dress.png",
+      "back": "../products/Batavia wool dress.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 225.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 5,
+    "name": "Bodycon Dress",
+    "photos": {
+      "front": "../products/Bodycon Dress.png"
+     },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 120.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 6,
+    "name": "Cotton Lace Polo Dress",
+    "photos": {
+      "front": "../products/Cotton lace polo dress.png",
+      "back": "../products/Cotton lace polo dress(BACK).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 180.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 7,
+    "name": "Cotton Poplin Midi Dress",
+    "photos": {
+      "front": "../products/Cotton poplin midi dress.png",
+      "back": "../Cotton poplin midi dress(side).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 250.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 8,
+    "name": "Flared Mid-Lenght Dress",
+    "photos": {
+      "front": "../products/Flared Mid-Lenght Dress.png",
+      "back": "../products/Flared Mid-Lenght Dress Back.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 200.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 9,
+    "name": "Longsleeve Dress",
+    "photos": {
+      "front": "../products/Longsleeve Dress.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 280.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 10,
+    "name": "Sexy Dress",
+    "photos": {
+      "front": "../products/Sexy Dress.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 120.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 11,
+    "name": "Sleeveless Chief Dress",
+    "photos": {
+      "front": "../products/Sleeveless Chief Dress.png",
+      "back": "../products/Sleeveless Chief Dress(back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 350.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 12,
+    "name": "Stripe Dress",
+    "photos": {
+      "front": "../products/Stripe Dress.png",
+      "back": "../products/Stripe Dress(Back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 280.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 13,
+    "name": "T-shirt Dress",
+    "photos": {
+      "front": "../products/T-shirt Dress.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 250.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 14,
+    "name": "Viscose crepe cady short jumpsuit",
+    "photos": {
+      "front": "../products/Viscose crêpe cady short jumpsuit.png",
+      "back": "../products/Viscose crêpe cady short jumpsuit(BACK).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 290.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 15,
+    "name": "Viscose lame dress with sequin embroidery",
+    "photos": {
+      "front": "../products/Viscose lamé dress with sequin embroidery(SIDE).png",
+      "back": "../products/Viscose lamé dress with sequin embroidery(back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 500.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 16,
+    "name": "Wool bouclé jumpsuit",
+    "photos": {
+      "front": "../products/Wool bouclé jumpsuit.png",
+      "back": "../products/Wool bouclé jumpsuit(BACK).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 340.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 17,
+    "name": "Wool dress with contrast trim",
+    "photos": {
+      "front": "../products/Wool dress with contrast trim.png",
+      "back": "../products/Wool dress with contrast trim(back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 259.0
+  },
+  {
+   "category": "women",
+    "type": "dress",
+    "id": 18,
+    "name": "Wrap Around Dress",
+    "photos": {
+      "front": "../products/Wrap Around Dress.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 320.0
+  },
+
+  {
+   "category": "women",
+    "type": "jackets",
+    "id": 19,
+    "name": "City Chic Jacket",
+    "photos": {
+      "front": "../products/City Chic Jacket (side).png",
+      "back": "../products/City Chic Jacket (back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 420.0
+  },
+  {
+   "category": "women",
+    "type": "jackets",
+    "id": 20,
+    "name": "Sun Seeker",
+    "photos": {
+      "front": "../products/Sun Seeker (front).png",
+      "back": "../products/Sun Seeker (back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 250.0
+  },
+  {
+   "category": "women",
+    "type": "jackets",
+    "id": 21,
+    "name": "Office Essential",
+    "photos": {
+      "front": "../products/Office Essential (front).png",
+      "back": "../products/Office Essential (Back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 499.0
+  },
+  {
+   "category": "men",
+    "type": "jackets",
+    "id": 22,
+    "name": "Jax Jacket",
+    "photos": {
+      "front": "../products/Jax Jacket (front).png",
+      "back": "../products/Jax Jacket (back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 550.0
+  },
+  {
+   "category": "men",
+    "type": "jackets",
+    "id": 23,
+    "name": "Cozy Comfort Jacket",
+    "photos": {
+      "front": "../products/Cozy Comfort Jacket.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 250.0
+  },
+  {
+   "category": "men",
+    "type": "jackets",
+    "id": 24,
+    "name": "Cloud Nine",
+    "photos": {
+      "front": "../products/Cloud Nine (side).png",
+      "back": "../products/Cloud Nine (back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 430.0
+  },
+  {
+   "category": "women",
+    "type": "jackets",
+    "id": 25,
+    "name": "Urban Explorer Jacket",
+    "photos": {
+      "front": "../products/Urban Explorer Jacket.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 199.0
+  },
+  {
+   "category": "women",
+    "type": "jackets",
+    "id": 26,
+    "name": "Warm Winter Jacket",
+    "photos": {
+      "front": "../products/Warm Winter Jacket.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 300.0
+  },
+
+
+
+
+
+
+
+  {
+   "category": "women",
+    "type": "underwear",
+    "id": 27,
+    "name": "2pcs Women Solid Color Specialty Fabric Spaghetti Strap Triangle Bikini Swimsuit",
+    "photos": {
+      "front": "../products/2pcs Women Solid Color Specialty Fabric Spaghetti Strap Triangle Bikini Swimsuit (Back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 180.0
+  },
+  {
+   "category": "women",
+    "id": 28,
+    "name": "Beach 2pcs Lady Casual Ruffle Edged Top And Pants Cover Up",
+    "photos": {
+      "front": "../products/Beach 2pcs Lady Casual Ruffle Edged Top And Pants Cover Up (Front).png",
+      "back": "../Beach 2pcs Lady Casual Ruffle Edged Top And Pants Cover Up (Back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 199.0
+  },
+  {
+   "category": "women",
+    "id": 29,
+    "name": "Cut Out Tie Side Halter One Piece Swimsuit",
+    "photos": {
+      "front": "../products/Cut Out Tie Side Halter One Piece Swimsuit (Front).png",
+      "back": "../products/Cut Out Tie Side Halter One Piece Swimsuit (Back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 360.0
+  },
+  {
+   "category": "women",
+    "id": 30,
+    "name": "Plain Bandeau Bikini & Beach Skirt",
+    "photos": {
+      "front": "../products/Plain Bandeau Bikini & Beach Skirt (Front).png",
+      "back": "../products/Plain Bandeau Bikini & Beach Skirt (Back).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 280.0
+  },
+  {
+   "category": "women",
+    "id": 31,
+    "name": "Sexy One Shoulder Bikini Set With Three Pieces In European And American Style",
+    "photos": {
+      "front": "../products/Sexy One Shoulder Bikini Set With Three Pieces In European And American Style (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 599.0
+  },
+  {
+   "category": "women",
+    "id": 32,
+    "name": "Solid Color Cut Out One-Piece Swimsuit Bathing Suit For Swimming, Vocation, Summer Beach",
+    "photos": {
+      "front": "../products/Solid Color Cut Out One-Piece Swimsuit Bathing Suit For Swimming, Vocation, Summer Beach (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 230.0
+  },
+  {
+   "category": "women",
+    "id": 33,
+    "name": "Solid Color Halter Neck Bra & Swim Bottom Bikini Set Bathing Suit",
+    "photos": {
+      "front": "../products/Solid Color Halter Neck Bra & Swim Bottom Bikini Set Bathing Suit (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 260.0
+  },
+  {
+   "category": "women",
+    "id": 34,
+    "name": "Solid Color Halter Neck Sexy Bikini Set For Summer Beach, With Underwire",
+    "photos": {
+      "front": "../products/Solid Color Halter Neck Sexy Bikini Set For Summer Beach, With Underwire (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 130.0
+  },
+  {
+   "category": "women",
+    "id": 35,
+    "name": "Summer Beach Color Block Cross Wrap High Waisted Bikini Set",
+    "photos": {
+      "front": "../products/Summer Beach Color Block Cross Wrap High Waisted Bikini Set (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 130.0
+  },
+  {
+   "category": "women",
+    "id": 37,
+    "name": "Summer Beach Sheer Bikini Set Triangle Bra & Thong Bottom & Cover Up Dress",
+    "photos": {
+      "front": "../products/Summer Beach Sheer Bikini Set Triangle Bra & Thong Bottom & Cover Up Dress (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 320.0
+  },
+  {
+   "category": "women",
+    "id": 38,
+    "name": "Summer Beach Solid Bikini Set Crisscross Tie Back Bra & Overlap High Waisted Bottom 2 Piece Bathing Suit",
+    "photos": {
+      "front": "../products/Summer Beach Solid Bikini Set Crisscross Tie Back Bra & Overlap High Waisted Bottom 2 Piece Bathing Suit (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 550.0
+  },
+  {
+   "category": "women",
+    "id": 39,
+    "name": "Summer Beach Women's Vacation Floral Print Halter Neck Tie Sexy Bikini Set With Cover-Up Skirt",
+    "photos": {
+      "front": "../products/Summer Beach Women_s Vacation Floral Print Halter Neck Tie Sexy Bikini Set With Cover-Up Skirt (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 490.0
+  },
+  {
+   "category": "women",
+    "id": 40,
+    "name": "Women's Summer Beach Tropical Plant Printed Halter Neck Tie And Boyshorts Sexy Bikini Set",
+    "photos": {
+      "front": "../products/Women_s Summer Beach Tropical Plant Printed Halter Neck Tie And Boyshorts Sexy Bikini Set (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 590.0
+  },
+  {
+   "category": "women",
+    "id": 40,
+    "name": "Summer Beach Women's Strappy Bikini",
+    "photos": {
+      "front": "../products/Summer Beach Women_s Strappy Bikini .png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 299.0
+  },
+
+
+
+
+
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 41,
+    "name": "Womens Puff Sleeve Square Neck Crop Top Blouse",
+    "photos": {
+      "front": "../products/Womens Puff Sleeve Square Neck Crop Top Blouse (S).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 220.0
+  },
+  {"category": "women",
+    "type": "tops",
+    "id": 42,
+    "name": "turtleneck tops",
+    "photos": {
+      "front": "../products/turtleneck tops (F).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 345.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 43,
+    "name": "tube tops",
+    "photos": {
+      "front": "../products/tube tops (B).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 400.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 44,
+    "name": "tops with collar neck and heart",
+    "photos": {
+      "front": "../products/tops with collar neck and heart (F).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 350.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 45,
+    "name": "Sleeveless shirt",
+    "photos": {
+      "front": "../products/Sleeveless shirt (F).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 110.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 46,
+    "name": "ROMWE Kawaii Women's Doll Bowknot Decor Puff Sleeve Blouse",
+    "photos": {
+      "front": "../products/ROMWE Kawaii Women_s Doll Bowknot Decor Puff Sleeve Blouse (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 295.0
+  },
+  {
+   "category": "men",
+    "type": "tops",
+    "id": 47,
+    "name": "Polo shirt with printed",
+    "photos": {
+      "front": "../products/Polo shirt with printed (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 300.0
+  },
+  {
+   "category": "men",
+    "type": "tops",
+    "id": 48,
+    "name": "Polo shirt plain",
+    "photos": {
+      "front": "../products/Polo shirt plain (Side).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 270.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 49,
+    "name": "Mulvari Women's Casual Floral Printed Puff Sleeve Cinched Waist Blouse",
+    "photos": {
+      "front": "../products/Mulvari Women_s Casual Floral Printed Puff Sleeve Cinched Waist Blouse (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 399.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 50,
+    "name": "MOD Women's Solid Color Off Shoulder Twist Front Top",
+    "photos": {
+      "front": "../products/MOD Women_s Solid Color Off Shoulder Twist Front Top (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 410.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 51,
+    "name": "MOD Summer Casual & Commuting & Elegant Puff Sleeve Cinching Waist Shirt With Blazer Collar",
+    "photos": {
+      "front": "../products/MOD Summer Casual & Commuting & Elegant Puff Sleeve Cinching Waist Shirt With Blazer Collar (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 440.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 52,
+    "name": "MOD Knit Fashionable Casual Ruched Asymmetrical Neckline Tight Cropped T-Shirt",
+    "photos": {
+      "front": "../products/MOD Knit Fashionable Casual Ruched Asymmetrical Neckline Tight Cropped T-Shirt (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 350.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 53,
+    "name": "MOD Contrast Trim Bow Front Puff Sleeve Crop Tee",
+    "photos": {
+      "front": "../products/MOD Contrast Trim Bow Front Puff Sleeve Crop Tee (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 550.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 54,
+    "name": "Contrast Trim Button Front Puff Sleeve 2 In 1 Blouse,Sheer",
+    "photos": {
+      "front": "../products/Contrast Trim Button Front Puff Sleeve 2 In 1 Blouse,Sheer (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 599.0
+  },
+  {
+   "category": "men",
+    "type": "tops",
+    "id": 55,
+    "name": "Casual Shirt",
+    "photos": {
+      "front": "../products/Casual Shirt (F).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 300.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 56,
+    "name": "EZwear Women's Solid Color 3D Floral Decor Camisole Top",
+    "photos": {
+      "front": "../products/EZwear Women_s Solid Color 3D Floral Decor Camisole Top (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 420.0
+  },
+  {
+   "category": "women",
+    "type": "tops",
+    "id": 57,
+    "name": "Fashion Sleeveless",
+    "photos": {
+      "front": "../products/Fashion Sleeveless (F).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 110.0
+  },
+
+
+
+
+
+
+
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 58,
+    "name": "Women's Vintage Drawstring Waist Baggy Wide Leg Casual Cargo Pants",
+    "photos": {
+      "front": "../products/Women_s Vintage Drawstring Waist Baggy Wide Leg Casual Cargo Pants (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 200.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 59,
+    "name": "Two Belt Skirt",
+    "photos": {
+      "front": "../products/Two Belt Skirt.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 150.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 60,
+    "name": "Trouser",
+    "photos": {
+      "front": "../products/Trouser.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 330.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 61,
+    "name": "Sweetro Women's Simple And Casual A-Line Skirt, Summer",
+    "photos": {
+      "front": "../products/Sweetro Women_s Simple And Casual A-Line Skirt, Summer (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 250.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 62,
+    "name": "Sweetro Women Fashion Solid Color Cross Design Loose Long Pants",
+    "photos": {
+      "front": "../products/Sweetro Women Fashion Solid Color Cross Design Loose Long Pants (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 590.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 63,
+    "name": "SHEIN MOD Blue Baggy Spring Break High Waist Button Detail Straight Leg Pants",
+    "photos": {
+      "front": "../products/SHEIN MOD Blue Baggy Spring Break High Waist Button Detail Straight Leg Pants (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 650.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 63,
+    "name": "MOD Women Metal Chain Belt Decorated Wide Wool Straight Pants",
+    "photos": {
+      "front": "../products/MOD Women Metal Chain Belt Decorated Wide Wool Straight Pants (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 499.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 64,
+    "name": "Cottony Pants",
+    "photos": {
+      "front": "../products/Cottony Pants (side).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 389.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 65,
+    "name": "Denim Short",
+    "photos": {
+      "front": "../products/Denim Short.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 325.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 66,
+    "name": "Denim Skirt Slit",
+    "photos": {
+      "front": "../products/Denim Skirt Slit.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 400.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 67,
+    "name": "Flowery Short",
+    "photos": {
+      "front": "../products/Flowery Short(front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 220.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 68,
+    "name": "Grunge Punk Solid Asymmetrical Hem Pleated Skirt, School",
+    "photos": {
+      "front": "../products/Grunge Punk Solid Asymmetrical Hem Pleated Skirt, School (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 199.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 69,
+    "name": "ICON Colorblock Flap Pocket Skirt With Detachable Legs",
+    "photos": {
+      "front": "../products/ICON Colorblock Flap Pocket Skirt With Detachable Legs (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 215.0
+  },
+  {
+   "category": "men",
+    "type": "bottoms",
+    "id": 70,
+    "name": "Khaki Short",
+    "photos": {
+      "front": "../products/Khaki Short.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 299.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 71,
+    "name": "MOD Women's Solid Color Simple Daily Style Long Pants",
+    "photos": {
+      "front": "../products/MOD Women_s Solid Color Simple Daily Style Long Pants (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 495.0
+  },
+  {"category": "women",
+    "type": "bottoms",
+    "id": 72,
+    "name": "MOOSTA 3 Pack Tie Front Track Shorts",
+    "photos": {
+      "front": "../products/MOOSTA 3 Pack Tie Front Track Shorts (Front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 99.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 73,
+    "name": "Slocks",
+    "photos": {
+      "front": "../products/Slocks (side).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 550.0
+  },
+  {
+   "category": "women",
+    "type": "bottoms",
+    "id": 74,
+    "name": "Three Lines Pants",
+    "photos": {
+      "front": "../products/Three Lines Pants(Side).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 275.0
+  },
+
+
+
+
+
+
+
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 75,
+    "name": "Boys Black Pants",
+    "photos": {
+      "front": "../products/Boys Black Pants (B2).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 250.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 76,
+    "name": "Capris",
+    "photos": {
+      "front": "../products/Capris (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 250.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 77,
+    "name": "Cozy cardigan",
+    "photos": {
+      "front": "../products/Cozy cardigan (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 299.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 77,
+    "name": "Cozy Coat",
+    "photos": {
+      "front": "../products/Cozy Coat (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 315.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 78,
+    "name": "Cozy Knit Scarves",
+    "photos": {
+      "front": "../products/Cozy Knit Scarves (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 209.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 79,
+    "name": "Dreamy duds dress",
+    "photos": {
+      "front": "../products/Dreamy duds dress (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 350.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 80,
+    "name": "Patterned Ponchos",
+    "photos": {
+      "front": "../products/Patterned Ponchos (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 499.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 81,
+    "name": "Red Dress",
+    "photos": {
+      "front": "../products/Red Dress 1.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 220.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 82,
+    "name": "Kiddy Shirt",
+    "photos": {
+      "front": "../products/Kiddy Shirt B1.png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 180.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 83,
+    "name": "Sleeveless dress",
+    "photos": {
+      "front": "../products/SLEEVELESS Dress (B1).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 385.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 84,
+    "name": "Snuggly Sweatpants",
+    "photos": {
+      "front": "../products/Snuggly Sweatpants (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 200.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 85,
+    "name": "Stylish Scarves",
+    "photos": {
+      "front": "../products/Stylish Scarves (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 400.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 85,
+    "name": "Trench Coats",
+    "photos": {
+      "front": "../products/Trench Coats (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 199.0
+  },
+  {
+   "category": "kids-all",
+    "type": "kids",
+    "id": 86,
+    "name": "Windy Weather",
+    "photos": {
+      "front": "../products/Windy Weather (front).png"
+    },
+    "size": ["Small", "Medium", "Large", "XL"],
+    "price": 299.0
+  }
+]
