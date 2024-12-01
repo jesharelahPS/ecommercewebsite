@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - LUGI VUITTON</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="icon" href="icons/louis-vuitton.svg">
+    <script src="../js/auth.js" defer></script>
+    <script src="../js/product-list.js"></script>
+
+</head>
+<body class="product-card-list">
+    <header>
+        <nav>
+            <ul class="nav-bar" type="none">
+                <li class="left-navbar">
+                    <div class="burger-btn" onclick="toggleMenu()">
+                        <div class="menu-btn"></div>
+                        <div class="menu-btn"></div>
+                        <div class="menu-btn"></div>
+                    </div>
+                </li>
+                <li class="left-navbar search-bar">
+                    <input type="text" id="searchInput" placeholder="Search...">
+                    <button onclick="searchProducts()"><img src="icons/noun-search-7358741.png" alt="Search"></button>
+                </li>
+                <li class="product-title" onclick="location.href='index.html'">LUGI VUITTON</li>
+                <li class="right-navbar dropdown">
+                    <a href="javascript:void(0)" class="login">
+                        <img src="icons/noun-profile-6772558.png" alt="Login">
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="login.html">Login/Register</a></li>
+                        <li><a href="account.html">Account</a></li>
+                    </ul>
+                </li>                <li class="right-navbar"><a href="favorites.html"><img src="icons/noun-favorite-7358738.png" class="favorites" alt="Favorites"></a></li>
+                <li class="right-navbar"><a href="notifications.html"><img src="icons/noun-notification-7375693.png" class="notification" alt="Notifications"></a></li>
+                <li class="right-navbar"><a href="cart.html"><img src="icons/noun-shopping-bag-7366667.png" class="cart" alt="Cart"><span id="cart-count">0</span></a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main id="auth-container">
+        
+        <form id="loginForm" class="form-box login">
+            <h2>Welcome back! Please login to your account.</h2>
+            <input type="email" placeholder="Email" required>
+            <input type="password" placeholder="Password" required>
+            <div class="forgot-password">
+                <label>
+                    <input type="checkbox" id="rememberMe" style="margin-right: 5px;"> Remember Me
+                </label>
+                <label><a href="#" id="forgotPassword">Forgot Password?</a></label>
+            </div>
+            <button type="submit">Login</button>
+            <span class="social-login" style="margin: 10px;">
+                <br><h3>Or Sign In With</h3>
+                <button class="social-btn" id="googleLogin" href="https://accounts.google.com">Google</button>
+                <button class="social-btn" id="facebookLogin" href="https://www.facebook.com">Facebook</button>
+            </span>
+            <p style="margin-top: 15px;">Don't have an account? <a href="#" id="showRegister">Register Here</a></p>
+        </form>
+
+        
+        <form id="registerForm" class="form-box signup" style="display: none;">
+            <h2>Create an account now!</h2>
+            <input type="text" placeholder="Full Name" required>
+            <input type="email" placeholder="Email" required>
+            <input type="password" placeholder="Password" required>
+            <input type="password" placeholder="Confirm password" required>
+            <button type="submit">Register</button>
+
+            <span class="social-login" style="margin: 10px;">
+                <br><h3>Or Sign In With</h3>
+                <button class="social-btn" id="googleLogin" href="https://accounts.google.com">Google</button>
+                <button class="social-btn" id="facebookLogin" href="https://www.facebook.com">Facebook</button>
+            </span>
+            <p style="margin: 20px;">Already have an account? <a href="#" id="showLogin">Login Here</a></p>
+        </form>
+
+        
+
+    </main>
+
+    <footer  class="footer">
+        <div class="footer-links">
+            <p class="help-links">Help
+                <a href="#">Call or Email Us</a>
+                <a href="#">FAQ's</a>
+                <a href="#">Product Care</a>
+                <a href="#">Stores</a>
+            </p>
+            <p class="services-links">Services
+                <a href="#">Repairs</a>
+                <a href="#">Personalization</a>
+                <a href="#">Gifts</a>
+                <a href="#">Download App</a>
+            </p>
+            <p class="more-links">More
+                <a href="#">Sustainability</a>
+                <a href="#">Latest News</a>
+                <a href="#">Careers</a>
+                <a href="#">Foundations</a>
+            </p>
+        </div>
+        <div class="bottom">
+            <a href="#">Sitemap</a>
+            <a href="#">Legal & Privacy</a>
+            <a href="#">Cookies</a>
+        </div>
+    </footer>
+</body>
+</html>

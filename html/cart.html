@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Bag - LUGI VUITTON</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="icon" href="icons/louis-vuitton.svg">
+    <script src="../js/cart.js" defer></script>
+    <script src="../js/product-list.js"></script>
+
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="nav-bar" type="none">
+                <li class="left-navbar">
+                    <div class="burger-btn" onclick="toggleMenu()">
+                        <div class="menu-btn"></div>
+                        <div class="menu-btn"></div>
+                        <div class="menu-btn"></div>
+                    </div>
+                </li>
+                <li class="left-navbar search-bar">
+                    <input type="text" id="searchInput" placeholder="Search...">
+                    <button onclick="searchProducts()"><img src="icons/noun-search-7358741.png" alt="Search"></button>
+                </li>
+                <li class="product-title" onclick="location.href='index.html'">LUGI VUITTON</li>
+                <li class="right-navbar dropdown">
+                    <a href="javascript:void(0)" class="login">
+                        <img src="icons/noun-profile-6772558.png" alt="Login">
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="login.html">Login/Register</a></li>
+                        <li><a href="account.html">Account</a></li>
+                    </ul>
+                </li>                <li class="right-navbar"><a href="favorites.html"><img src="icons/noun-favorite-7358738.png" class="favorites" alt="Favorites"></a></li>
+                <li class="right-navbar"><a href="notifications.html"><img src="icons/noun-notification-7375693.png" class="notification" alt="Notifications"></a></li>
+                <li class="right-navbar"><a href="cart.html"><img src="icons/noun-shopping-bag-7366667.png" class="cart" alt="Cart"><span id="cart-count">0</span></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="cart-container" class="cart-container">
+        <h2>Your Shopping Bag</h2>
+    
+        <section class="cart-section">
+            <div class="cart-content">
+                <div class="table-responsive">
+                    <table class="cart-table">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="h5">Item</th>
+                                <th scope="col">Size</th>
+                                <th scope="col">Quantity</th>
+                                <th scope="col">Price</th>
+                                <th scope="col"></th>
+                            </tr>
+                        </thead>
+                        <tbody id="cart-items-body">
+                            <tr class="cart-item">
+                                <td class="cart-item-image">
+                                    <img src="" alt="Item Image" class="cart-item-img" />
+                                    <p class="cart-item-name">Item Name</p>
+                                </td>
+                                <td class="cart-item-size">
+                                    <select class="size-select" id="item-size">
+                                        <option value="S">S</option>
+                                        <option value="M">M</option>
+                                        <option value="L">L</option>
+                                        <option value="XL">XL</option>
+                                    </select>
+                                </td>
+                                <td class="cart-item-quantity">
+                                    <div class="quantity-control">
+                                        <button class="quantity-button" onclick="changeQuantity('-')">-</button>
+                                        <input type="number" class="quantity-input" min="1" value="1" id="item-quantity" />
+                                        <button class="quantity-button" onclick="changeQuantity('+')">+</button>
+                                    </div>
+                                </td>
+                                <td class="cart-item-price">
+                                    <p class="item-price" id="item-price">$0.00</p>
+                                </td>
+                                <td class="cart-item-remove">
+                                    <button class="item-remove" id="item-remove" onclick="removeFromCart('item123')">🗑</button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+    
+                <div class="payment-container">
+                    <div class="payment-section">
+                        <p>Choose a payment method:
+                            <select class="payment-select" id="payment-select">
+                                <option value="Debit">Debit</option>
+                                <option value="Credit">Credit</option>
+                            </select>
+                        </p><br>
+        
+                        <p>Enter your card number</p>
+                        <input type="text" class="card-input" id="card-number" placeholder="1234 5678 9012 3456" required/>
+        
+                        <p>First Name</p>
+                        <input type="text" class="card-input" id="first-name" placeholder="John" required/>
+        
+                        <p>Last Name</p>
+                        <input type="text" class="card-input" id="last-name" placeholder="Doe" required/>
+        
+                        <p>Expiration</p>
+                        <input type="text" class="card-input" id="expiration" placeholder="12/25" required/>
+        
+                        <p>CVV</p>
+                        <input type="text" class="card-input" id="cvv" placeholder="123" required/><br>
+        
+                        <p>Enter your address:</p>
+                        <input type="text" class="card-input" id="address" placeholder="123 Main St, City, Country" required/><br>
+        
+                        <p>Discount Code</p>
+                        <input type="text" class="card-input" id="discount-code" placeholder="SAVE10" />
+
+
+                        <div class="cart-summary">
+                            <div class="total-price">
+                                <p>Subtotal: <span id="subtotal-price">$0.00</span></p>
+                                <p>Shipping: <span id="shipping-price">$0.00</span></p>
+                                <p>Voucher: <span id="voucher-price-subtract">-$0.00</span></p>
+                                <p class="total-price-final">Total: <span id="total-price">$0.00</span></p>
+                            </div>
+                        </div>
+
+                        <button class="checkout-button" onclick="checkout()">Checkout</button>
+                    </div>
+                </div>     
+        </section>
+    </main>
+    
+
+
+    <footer  class="footer">
+        <div class="footer-links">
+            <p class="help-links">Help
+                <a href="#">Call or Email Us</a>
+                <a href="#">FAQ's</a>
+                <a href="#">Product Care</a>
+                <a href="#">Stores</a>
+            </p>
+            <p class="services-links">Services
+                <a href="#">Repairs</a>
+                <a href="#">Personalization</a>
+                <a href="#">Gifts</a>
+                <a href="#">Download App</a>
+            </p>
+            <p class="more-links">More
+                <a href="#">Sustainability</a>
+                <a href="#">Latest News</a>
+                <a href="#">Careers</a>
+                <a href="#">Foundations</a>
+            </p>
+        </div>
+        <div class="bottom">
+            <a href="#">Sitemap</a>
+            <a href="#">Legal & Privacy</a>
+            <a href="#">Cookies</a>
+        </div>
+    </footer>
+</body>
+</html>
